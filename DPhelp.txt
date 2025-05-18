@@ -1,0 +1,5 @@
+Aight, here's my list of commands:
+    - DP: I'll assume you need help if you type this.
+    - DPhelp: Brings up this help page.
+Remember, the DP prefix isn't case sensitive. DP, dp, dP, Dp, all the same to me.
+For help with playing music, type *$help*
